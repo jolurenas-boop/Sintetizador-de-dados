@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+scipy
+matplotlib
+pdfplumber
+openpyxl
+pingouin
+weasyprint
